@@ -26,7 +26,8 @@
 		{"id":"3ed8255038e79864","type":"text","text":"Paling gampang yang (a)","x":-87,"y":3678,"width":250,"height":60},
 		{"id":"ee12a8b073da505a","type":"file","file":"Pasted image 20240124143415.png","x":-622,"y":3860,"width":587,"height":300},
 		{"id":"5de477c599dfc53a","type":"file","file":"Pasted image 20240124143431.png","x":-622,"y":4200,"width":535,"height":285},
-		{"id":"557e0f763acbf762","type":"text","text":"Tugas 1 : Menyampaikan topik keminatan lebih dari 1. Nggak harus masalahnya. Topik statistika nya, misalnya spasial.","x":-60,"y":4200,"width":340,"height":135}
+		{"id":"557e0f763acbf762","type":"text","text":"Tugas 1 : Menyampaikan topik keminatan lebih dari 1. Nggak harus masalahnya. Topik statistika nya, misalnya spasial.","x":-60,"y":4200,"width":340,"height":135},
+		{"id":"ebe1c26a29cec425","x":1228,"y":-293,"width":250,"height":60,"type":"text","text":"# Pertemuan 2"}
 	],
 	"edges":[
 		{"id":"1c1016b07ffa9c37","fromNode":"3ef8ae7bfa9a90a1","fromSide":"left","toNode":"10176acca5daa7e0","toSide":"left"},
